@@ -1,36 +1,45 @@
-# WhatsApp AI Business Bot (Demo)
+# WhatsApp Business Auto-Reply System (Demo)
 
-This project powers an auto-reply assistant for small businesses.
-It responds instantly, answers FAQs, and collects leads (name + phone + request).
+This project demonstrates a simple WhatsApp auto-reply system for small businesses and clinics.
+
+It helps businesses reply instantly to WhatsApp messages, answer common questions, and capture customer or patient details automatically.
+• Replies instantly on WhatsApp
+• Handles appointment requests
+• Answers common questions
+• Captures customer or patient details
+• Works 24/7 on existing WhatsApp numbers
 
 ## Demo
-- Messaging demo available (Telegram)
-- WhatsApp version available for paid setup
+-Live demo available on Telegram.
 
-## Paid Setup Includes
-- WhatsApp connection + webhook setup
-- Custom business prompt
-- Lead capture to Google Sheets
-- Hosting guidance & monthly support
+This demo shows how messages are handled automatically before being connected to WhatsApp.
 
- ## Pricing
+Demo link:
+https://t.me/whatsapp_ai_business_bot
 
+• Clinics & medical practices
+• Pharmacies
+• Salons & barbershops
+• Property rentals
+• Car hire & service businesses
 Starter — KES 3,000
-- Basic WhatsApp auto-reply
-- FAQs + lead capture
-- Google Sheets integration
+• Basic WhatsApp auto-reply
+• FAQs
+• Lead capture
 
 Business — KES 7,000 (Most Popular)
-- Custom business prompt
-- Booking / order flow
-- Lead capture + notifications
-- Setup support
+• Appointment / booking flow
+• Custom replies
+• Customer or patient details saved
 
 Premium — KES 15,000
-- Advanced AI replies
-- CRM-ready Google Sheets
-- Monthly support
-- Priority setup
+• Advanced reply flows
+• CRM-ready setup
+• Ongoing support
+To request setup, contact us on WhatsApp:
 
+https://wa.me/254741587444
 
-📩 Contact: 0741587444 / YOUR_TELEGRAM_LINK
+Send the message:
+WHATSAPP AUTO-REPLY
+
